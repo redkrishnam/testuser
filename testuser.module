@@ -8,6 +8,8 @@
  * This module provides a block that lists all of the
  * installed modules. It illustrates coding standards,
  * practices, and API use for Drupal 7.
+ * hello
+ *
  */
 
 /**
@@ -15,7 +17,7 @@
  */
 function testuser_help($path, $arg) {
   if ($path == 'admin/help#first') {
-    return t('A demonstration module.');
+    return t('A demonstration module111.');
   }
 }
 
