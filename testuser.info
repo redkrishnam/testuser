@@ -1,0 +1,7 @@
+name = testuser
+description = A first module.
+package = Drupal 7 Development
+core = 7.x
+files[] = testuser.module
+
+;php = 5.2
