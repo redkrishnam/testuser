@@ -47,7 +47,7 @@ function testuser_block_view($block_name = '') {
     $content = theme('item_list', $theme_args);
 
     $block = array(
-      'subject' => t('Enabled Modules Enable/ Disable'),
+      'subject' => t('Enabled Modules Enable/ Disable Implementation Drupal'),
       'content' => $content,
     );
 
