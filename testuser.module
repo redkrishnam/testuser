@@ -17,7 +17,7 @@
  */
 function testuser_help($path, $arg) {
   if ($path == 'admin/help#first') {
-    return t('A demonstration module111. This will implement git commands');
+    return t('A demonstration module111. This will implement git commands testing');
   }
 }
 
