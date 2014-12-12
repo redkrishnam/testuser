@@ -28,7 +28,7 @@ function testuser_block_info() {
   $blocks = array();
 
   $blocks['list_modules'] = array(
-    'info' => t('A listing of all of the enabled modules. This is an Jenkins example'),
+    'info' => t('A listing of all of the enabled modules. This is an Jenkins example example'),
     'cache' => DRUPAL_NO_CACHE,
   );
 
